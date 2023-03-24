@@ -6,7 +6,7 @@ In this project, We have implemented AttnGAN using Pytorch. We have also made a 
 
 For the depth understanding of working mechanism of the AttnGAN model, you can watch following video:
 
-[![Alt text](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Epvh4EvznUA)
+[![Alt text](https://img.youtube.com/vi/Epvh4EvznUA/0.jpg)](https://www.youtube.com/watch?v=Epvh4EvznUA)
 
 
 ### Dependencies
@@ -87,9 +87,13 @@ Link for the Thanka Dataset:
 </div>
 
 **For link:** 
+
 Please contact us.
 
+
+
 **Procedure of making custom dataset**
+
 Contact Us without any hesitation.
 
 # Contact Us
